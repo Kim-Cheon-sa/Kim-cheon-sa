@@ -1,0 +1,6 @@
+echo "# Kim-cheon-sa">> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remote add origin https://github.com/Kim-Cheon-sa/Kim-cheon -sa.git
+ git push -u 오리진 마스터
